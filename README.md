@@ -1,6 +1,13 @@
-# Find-a-Film
+# Find-a-Film [SNAPSHOT]
+
+📸 This is a snapshot of the working team repo for [find-a-film](https://github.com/lwly-jpg/find-a-film)
 
 [<img src="https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/simple/9qni5u&style=flat&logo=cypress" height="25px" />](https://cloud.cypress.io/projects/9qni5u/runs)
+
+## Tech stack
+
+<img height="30" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" />
+
 
 ## Contents
 
@@ -10,7 +17,7 @@
 
 [How the product was built](#how-the-product-was-built)
 
-[Product Timeline](#📅-product-timeline)
+[Product Timeline](#product-timeline)
 
 [How to Use This App](#how-to-use-this-app)
 
@@ -58,13 +65,7 @@ The team were distributed across the UK with varying availabilty. We managed our
 - Team communication via `Slack`
 - `Slack bots` for `GitHub Pull Requests`
 
-Technologies & Tools:
-
-- `React`: For a modern build
-- `TypeScript`: To improve error checking with Types
-- `Figma`: For mocking up the UI and sharing designs
-
-## 📅 Product Timeline
+## Product Timeline
 
 ### 🚀 Version 1
 
